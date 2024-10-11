@@ -3,5 +3,5 @@
 Dashboard - SingleEcom
 @endsection
 @section('content')
-Hello
+
 @endsection
